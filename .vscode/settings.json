@@ -7,7 +7,7 @@
     // ],
     // "python.venvPath": "/home/nemsys/projects/courses/ProgressBG/Ind-MLwithPython/.venv",
 
-    "python.pythonPath": "/home/nemsys/projects/courses/ProgressBG/Ind-MLwithPython/.venv/bin/python",
+    "python.pythonPath": "/home/nemsys/.pyenv/versions/3.8.2/bin/python3.8",
 
     "spellright.language": [
         "English (American)",
