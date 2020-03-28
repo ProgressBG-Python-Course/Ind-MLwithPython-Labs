@@ -1,3 +1,25 @@
 {
-    "python.pythonPath": ".venv/bin/python3"
+    // "python.venvFolders": [
+    //     "envs",
+    //     ".pyenv",
+    //     ".direnv",
+    //     ".venv"
+    // ],
+    // "python.venvPath": "/home/nemsys/projects/courses/ProgressBG/Ind-MLwithPython/.venv",
+
+    "python.pythonPath": "/home/nemsys/projects/courses/ProgressBG/Ind-MLwithPython/.venv/bin/python",
+
+    "spellright.language": [
+        "English (American)",
+        "English (British)",
+        "Bulgarian"
+    ],
+    // "spellright.documentTypes": [
+    //     "markdown",
+    //     "latex",
+    //     "plaintext",
+    //     "python",
+    //     "html"
+    // ],
+    "git.ignoreLimitWarning": false
 }
