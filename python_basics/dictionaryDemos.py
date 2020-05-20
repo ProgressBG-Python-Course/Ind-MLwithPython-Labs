@@ -9,3 +9,7 @@ fruits_prices = {
 }
 
 print(fruits_prices['apple'])
+
+
+for el in fruits_prices:
+	print(el)
